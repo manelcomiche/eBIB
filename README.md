@@ -28,7 +28,7 @@ L'objectiu d'aquesta solució és automatitzar el procés d'autenticació i gene
 
 1. Clona aquest repositori:
     ```bash
-    git clone https://github.com/manelcomiche/ebib-upc.git
+    git clone https://github.com/manelcomiche/ebib.git
     ```
 
 2. Obre l'arxiu `index.html` en el teu navegador per visualitzar la pàgina i començar a utilitzar la solució.
