@@ -47,7 +47,7 @@ Pots veure una demostració en viu d'aquesta solució [aquí](https://upc.manelc
 
 ## 👤 Autor
 
-- **Manel Comiche** - Desenvolupador Junior [manelcomiche.com](https://manelcomiche.com)
+- **Manel Comiche** - Desenvolupador Junior - [manelcomiche.com](https://manelcomiche.com)
 
 ## 📝 Llicència
 
